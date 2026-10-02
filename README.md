@@ -21,5 +21,5 @@ This repository contains example code for:
 - [scikit-learn v1.5.2](https://github.com/scikit-learn/scikit-learn) 
 
 # Authors
-Yi-Pin Lai and Andrea Bellavia
+Yi-Pin Lai and Andrea Bellavia  
 TIMI study group, Department of Cardiovascular Medicine, Brigham and Womens Hospital / Harvard Medical School
