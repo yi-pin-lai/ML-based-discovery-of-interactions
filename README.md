@@ -15,9 +15,9 @@ This repository contains example code for:
 ## Interpretable ML 
 - [artemis v0.1.5](https://github.com/pyartemis/artemis) - Friedman’s H-statistic
 - [SHAP v0.46.0](https://github.com/shap/shap) - Shapley additive explanations
-- [interactionRCS v0.1.1](https://github.com/cran/interactionRCS) - Restricted cubic splines
-## Other Python modules
+## Other Python or R modules
 - [causal-learn v0.1.4.8](https://github.com/py-why/causal-learn) - Causal discovery graph
+- [interactionRCS v0.1.1](https://github.com/cran/interactionRCS) - Restricted cubic splines
 - [scikit-learn v1.5.2](https://github.com/scikit-learn/scikit-learn) 
 
 # Authors
